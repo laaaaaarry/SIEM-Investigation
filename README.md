@@ -20,6 +20,7 @@ The SIEM Investigation project sought to deepen the understanding of Sentinel SI
 ## Steps
 
 **1. Open Azure portal navigate to Sentinel workspace & go to **Incident** view of the Sentinel workspace.**
+
 **2. From the list select "Solorigate Network Beacon" incident.**
 
 ![1](https://github.com/laaaaaarry/SIEM-Investigation/assets/125237930/b1c367b8-568b-4102-82a2-ff276a374558)
